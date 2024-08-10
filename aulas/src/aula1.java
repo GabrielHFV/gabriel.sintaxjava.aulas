@@ -1,5 +1,6 @@
+// Hello Word
 public class aula1 {
     public static void main(String[] args) {
-        System.out.print("Hello, Words");
+        System.out.print("Hello, Word");
     }
 }
