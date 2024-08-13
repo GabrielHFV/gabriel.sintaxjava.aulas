@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Gabriel",
+                "Henrique",
+                "19",
+                "1.65"
+            ],
+            "projectName": "aulas_3ffec06c"
+        },
+        {
+            "type": "java",
+            "name": "Aula2",
+            "request": "launch",
+            "mainClass": "Aula2",
+            "projectName": "aulas_3ffec06c"
+        },
+        {
+            "type": "java",
+            "name": "Aula3",
+            "request": "launch",
+            "mainClass": "Aula3",
+            "projectName": "aulas_3ffec06c"
+        },
+        {
+            "type": "java",
+            "name": "Aula3pt2",
+            "request": "launch",
+            "mainClass": "Aula3pt2",
+            "projectName": "aulas_3ffec06c"
+        },
+        {
+            "type": "java",
+            "name": "Aula3pt3",
+            "request": "launch",
+            "mainClass": "Aula3pt3",
+            "projectName": "aulas_3ffec06c"
+        },
+        {
+            "type": "java",
+            "name": "aula1",
+            "request": "launch",
+            "mainClass": "aula1",
+            "projectName": "aulas_3ffec06c"
+        }
+    ]
+}
